@@ -9,6 +9,7 @@ learnMore.addEventListener('click', function (e) {
 });
 
 //! Implement navbar scroll
+
 navBar.addEventListener('click', function (e) {
   e.preventDefault();
   // console.log(e.target.classList);
